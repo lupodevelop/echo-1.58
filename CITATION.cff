@@ -8,5 +8,6 @@ authors:
     family-names: Scaratti
     email: scaratti.daniele.research@proton.me
 year: 2026
+doi: 10.5281/zenodo.21455055
 repository-code: https://github.com/lupodevelop/echo-1.58
 license: MIT

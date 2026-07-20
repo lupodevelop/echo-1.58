@@ -10,8 +10,9 @@ parameter-matched full-precision twins.
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
 [![Weights: Apache 2.0](https://img.shields.io/badge/Weights-Apache%202.0-green.svg)](#released-checkpoints)
 [![Models on HF](https://img.shields.io/badge/%F0%9F%A4%97%20Models-Hugging%20Face-yellow)](https://huggingface.co/collections/lupodevelop/echo-158-ternary-masked-diffusion-lms-6a5dd179a5f7ad08cc277404)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21455055.svg)](https://doi.org/10.5281/zenodo.21455055)
 
-**Paper** (preprint pending) · **[Models](https://huggingface.co/collections/lupodevelop/echo-158-ternary-masked-diffusion-lms-6a5dd179a5f7ad08cc277404)** · **[Full results](results/RESULTS.md)**
+**Paper** ([Zenodo, DOI 10.5281/zenodo.21455055](https://doi.org/10.5281/zenodo.21455055); arXiv pending) · **[Models](https://huggingface.co/collections/lupodevelop/echo-158-ternary-masked-diffusion-lms-6a5dd179a5f7ad08cc277404)** · **[Full results](results/RESULTS.md)**
 
 </div>
 
@@ -103,7 +104,8 @@ L40S. See [`results/RESULTS.md`](results/RESULTS.md) for every number and its ra
   author  = {Daniele Scaratti},
   title   = {Recovering the Ternary Penalty in Masked Diffusion Language Models: What Adds Capacity, What Only Reorganizes, and What Repetition Costs},
   journal = {arXiv preprint},
-  year    = {2026}
+  year    = {2026},
+  doi     = {10.5281/zenodo.21455055}
 }
 ```
 
