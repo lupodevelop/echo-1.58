@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pt
+*.bin
+*.log
+*.aux
+*.out
+*.bbl
+*.blg
+*.png
+pg-*
+*_qa*
+runs_local/
+data/
+.DS_Store
+
+# but keep repo assets
+!assets/*.png

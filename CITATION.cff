@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: >-
+  Recovering the Ternary Penalty in Masked Diffusion Language Models: What Adds Capacity, What Only Reorganizes, and What Repetition Costs
+message: If you use this code, models, or data, please cite the paper.
+type: article
+authors:
+  - given-names: Daniele
+    family-names: Scaratti
+    email: scaratti.daniele.research@proton.me
+year: 2026
+repository-code: https://github.com/lupodevelop/echo-1.58
+license: MIT
