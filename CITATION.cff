@@ -7,6 +7,7 @@ authors:
   - given-names: Daniele
     family-names: Scaratti
     email: scaratti.daniele.research@proton.me
+    orcid: https://orcid.org/0009-0008-3931-8821
 year: 2026
 doi: 10.5281/zenodo.21455055
 repository-code: https://github.com/lupodevelop/echo-1.58
